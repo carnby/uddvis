@@ -1,3 +1,7 @@
+# Este repositorio está obsoleto!!!
+
+La versión actualizada y moderna de estas clases y otros recursos está en este repositorio: https://github.com/carnby/aves
+
 # Visualización de Información en Python
 
 - **Eduardo Graells-Garrido**
